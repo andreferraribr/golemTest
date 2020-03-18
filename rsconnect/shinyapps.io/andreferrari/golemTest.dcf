@@ -1,0 +1,12 @@
+name: golemTest
+title: golemTest
+username:
+account: andreferrari
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1959248
+bundleId: 2891203
+url: https://andreferrari.shinyapps.io/golemTest/
+when: 1584471287.4656
+asMultiple: FALSE
+asStatic: FALSE
